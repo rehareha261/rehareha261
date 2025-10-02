@@ -1,8 +1,12 @@
 # Résumé du README
 
-Ce fichier contient un résumé du profil GitHub de rehareha261.
+## À propos de moi
+Je suis un développeur passionné par la création de solutions innovantes. Mon expertise inclut le développement web et les technologies modernes.
 
-Points principaux :
-- Profil personnel sur GitHub
-- Utilisé pour héberger des projets et contributions
-- Sert de vitrine pour le travail et les compétences techniques
+## Compétences principales
+- Développement web
+- Résolution de problèmes
+- Travail d'équipe
+
+## Contact
+Pour plus d'informations ou pour collaborer, n'hésitez pas à me contacter via GitHub.
