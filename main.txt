@@ -1,8 +1,10 @@
-# Résumé du README
+# Résumé du profil GitHub de rehareha261
 
-Ce fichier contient un résumé du profil GitHub de rehareha261.
+👋 Bienvenue sur le profil GitHub de rehareha261 !
 
-Points principaux :
-- Profil personnel sur GitHub
-- Utilisé pour héberger des projets et contributions
-- Sert de vitrine pour le travail et les compétences techniques
+- 👀 Intéressé par la programmation et le développement
+- 🌱 En apprentissage continu
+- 💞️ Ouvert aux collaborations
+- 📫 Contactable via GitHub
+
+Ce profil est en cours de développement et sera enrichi avec de nouveaux projets et contributions.
