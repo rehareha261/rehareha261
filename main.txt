@@ -1,8 +1,10 @@
 # Résumé du README
 
-Ce fichier contient un résumé du profil GitHub de rehareha261.
+Ce dépôt appartient à rehareha261, un développeur passionné par la technologie et la programmation.
 
-Points principaux :
-- Profil personnel sur GitHub
-- Utilisé pour héberger des projets et contributions
-- Sert de vitrine pour le travail et les compétences techniques
+Points clés :
+- Profil GitHub : rehareha261
+- Dépôt principal : rehareha261/rehareha261
+- Objectif : Partager des projets et contribuer à la communauté open source
+
+Ce résumé a été généré à partir du fichier README.md original du dépôt.
