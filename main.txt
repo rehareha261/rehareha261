@@ -1,8 +1,7 @@
 # Résumé du README
 
-Ce fichier contient un résumé du profil GitHub de rehareha261.
+Ce repository contient des informations sur le projet rehareha261. Il sert de point d'entrée principal pour la documentation et les ressources du projet.
 
-Points principaux :
-- Profil personnel sur GitHub
-- Utilisé pour héberger des projets et contributions
-- Sert de vitrine pour le travail et les compétences techniques
+Points clés :
+- Repository principal : rehareha261/rehareha261
+- Deux endpoints disponibles : /github et /rehareha261/rehareha261
