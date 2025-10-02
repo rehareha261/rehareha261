@@ -1,8 +1,10 @@
-# Résumé du README
+# Résumé du README du repository rehareha261
 
-Ce fichier contient un résumé du profil GitHub de rehareha261.
+Ce repository contient un projet personnel qui sert de portfolio et de démonstration des compétences en développement.
 
-Points principaux :
-- Profil personnel sur GitHub
-- Utilisé pour héberger des projets et contributions
-- Sert de vitrine pour le travail et les compétences techniques
+Points clés :
+- Projet personnel servant de portfolio
+- Démonstration de compétences en développement
+- Repository public accessible sur GitHub
+
+Le repository est hébergé sur GitHub à l'adresse : https://github.com/rehareha261/rehareha261
