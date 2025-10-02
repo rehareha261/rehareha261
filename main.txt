@@ -1,8 +1,17 @@
-# Résumé du README
+# Résumé du profil GitHub de rehareha261
 
-Ce fichier contient un résumé du profil GitHub de rehareha261.
+## À propos
+Développeur passionné avec une expertise en développement web et mobile. Actuellement en formation à l'école O'clock pour approfondir ses compétences.
 
-Points principaux :
-- Profil personnel sur GitHub
-- Utilisé pour héberger des projets et contributions
-- Sert de vitrine pour le travail et les compétences techniques
+## Compétences techniques
+- Langages : HTML, CSS, JavaScript, PHP
+- Frameworks : React, Symfony
+- Base de données : MySQL
+- Outils : Git, GitHub
+
+## Contact
+- LinkedIn : https://www.linkedin.com/in/reha-reha-b2b4b9227/
+- Email : reha.reha261@gmail.com
+
+## Projets
+Travaille activement sur des projets de développement web et mobile, en mettant l'accent sur les technologies modernes et les bonnes pratiques de développement.
