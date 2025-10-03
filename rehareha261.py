@@ -1,13 +1,10 @@
-from flask import Flask, jsonify
+from flask import Flask, send_file
 
 app = Flask(__name__)
 
 @app.route('/rehareha261/rehareha261')
-def rehareha261_endpoint():
-    return jsonify({
-        "message": "Welcome to the rehareha261 endpoint",
-        "status": "success"
-    })
+def get_main_content():
+    return send_file('main.txt', mimetype='text/plain')
 
 if __name__ == '__main__':
     app.run()
