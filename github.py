@@ -1,13 +1,10 @@
-from flask import Flask, jsonify
+from flask import Flask, send_file
 
 app = Flask(__name__)
 
 @app.route('/github')
-def github_endpoint():
-    return jsonify({
-        "message": "Welcome to the GitHub endpoint",
-        "status": "success"
-    })
+def get_github_content():
+    return send_file('main.txt', mimetype='text/plain')
 
 if __name__ == '__main__':
     app.run()
