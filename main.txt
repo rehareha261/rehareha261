@@ -1,0 +1,12 @@
+# RÉSUMÉ DU PROFIL
+
+## À propos de moi
+Développeur passionné par la technologie et l'innovation.
+
+## Stack Technique
+- Langages: Python, JavaScript
+- Frontend: HTML, CSS
+- Outils: Git, GitHub
+
+## Contact
+GitHub: @rehareha261
