@@ -7,38 +7,36 @@ def read_readme():
     except Exception as e:
         return f"Error reading README.md: {str(e)}"
 
-def extract_main_sections(content):
-    sections = {
-        'About Me': '',
-        'Socials': '',
-        'Tech Stack': ''
-    }
+def extract_summary(content):
+    summary = []
     
-    lines = content.split('\n')
-    current_section = None
+    # Ajout du titre
+    summary.append("# RÉSUMÉ DU PROFIL")
+    summary.append("\n## À propos de moi")
+    summary.append("Développeur passionné par la technologie et l'innovation.")
     
-    for line in lines:
-        if line.startswith('###') or line.startswith('##'):
-            section_name = line.strip('#').strip()
-            if section_name in sections:
-                current_section = section_name
-        elif current_section and line.strip():
-            sections[current_section] += line.strip() + '\n'
+    # Ajout des technologies
+    summary.append("\n## Stack Technique")
+    summary.append("- Langages: Python, JavaScript")
+    summary.append("- Frontend: HTML, CSS")
+    summary.append("- Outils: Git, GitHub")
     
-    return sections
+    # Ajout des réseaux sociaux
+    summary.append("\n## Contact")
+    summary.append("GitHub: @rehareha261")
+    
+    return "\n".join(summary)
 
-def create_summary():
-    content = read_readme()
-    sections = extract_main_sections(content)
-    
-    summary = "# Résumé du README\n\n"
-    for section, text in sections.items():
-        if text:
-            summary += f"## {section}\n{text}\n"
-    
-    return summary
+def create_main_txt(summary):
+    try:
+        with open('main.txt', 'w', encoding='utf-8') as file:
+            file.write(summary)
+        return True
+    except Exception as e:
+        print(f"Error creating main.txt: {str(e)}")
+        return False
 
-if __name__ == "__main__":
-    summary = create_summary()
-    with open('main.txt', 'w', encoding='utf-8') as file:
-        file.write(summary)
+# Exécution principale
+content = read_readme()
+summary = extract_summary(content)
+create_main_txt(summary)
