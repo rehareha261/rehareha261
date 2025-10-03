@@ -1,7 +1,0 @@
-# Résumé du README
-
-Ce repository contient des informations sur le projet rehareha261. Il sert de point d'entrée principal pour la documentation et les ressources du projet.
-
-Points clés :
-- Repository principal : rehareha261/rehareha261
-- Deux endpoints disponibles : /github et /rehareha261/rehareha261
