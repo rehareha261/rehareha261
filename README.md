@@ -5,7 +5,7 @@ I'm looking to collaborate on any project that would help me to improve my skill
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehareha-ranaivo-ratsiharinifetra-b7ab49352)
+[🌐 Voir mon Portfolio]([https://rehareha-portfolio.vercel.app])
 
 # 💻 Tech Stack:
 ### Frameworks :
